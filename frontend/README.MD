@@ -1,4 +1,4 @@
-# Frontend Assessment – Membership Page
+#  Membership Page
 
 ## Overview
 
